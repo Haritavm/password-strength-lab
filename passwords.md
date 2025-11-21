@@ -19,4 +19,5 @@
 | C!ph3r^Lab$Test#2025| Very Strong      | Long, mixed types, secure            |
 
 ## Screenshots
-See `screenshots/` folder for evidence of each test.
+See the `screenshots/` folder for evidence of each test.  
+Note: Not all passwords have screenshots — only one representative example is included for each category (Weak, Medium, Strong, Very Strong).
